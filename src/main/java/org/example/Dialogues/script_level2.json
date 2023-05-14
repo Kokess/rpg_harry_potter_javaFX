@@ -1,0 +1,11 @@
+{
+  "intro": "Bienvenue en deuxième année jeune sorcier! \n Vous allez pendant cette année acquérir de nombreuses compétences en tout genre, que ce soit de la maîtrise des potions à la défense contre les forces du mal.",
+  "spell" : " Cette année vous allez apprendre le sort accio! Ce sort vous permet d'attirer des objets vers vous! Allez-y, essayer d'utiliser le sort!",
+  "spell_success" : "Bravo! Vous avez réussi à utiliser le sort parfaitement! ",
+  "intro_boss": "Attention, Tom Jedusor a invoqué le Basilic!",
+  "bossDescription": "Pour espérer vaincre le Basilic, Blesser le jusqu'à ce que un de ses crocs tombe, puis utilisez Accio pour l'attirer vers vous",
+  "boss_finish": "Félicitation jeune sorcier, vous avez vaincu le Basilic! Vous avez fait fuire Tom Jedusor!",
+  "itemDrop": "Le basilic a laché un Croc!",
+  "fagUse": "Vous utilisez le croc du basilic et le planter dans le Basilic!",
+  "sword": "L'épée magique de Gryffondor appraît comme par magie dans le Choixpeau! Utiliser Accio pour l'attirer vers vous pour pouvoir tuer votre ennemie!"
+}

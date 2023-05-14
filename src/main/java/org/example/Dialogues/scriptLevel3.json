@@ -1,0 +1,6 @@
+{
+  "intro": "Bienvenue en 3ème année! Suite aux événements de l'année passée et l'évasion d'un prisonnier de la prison d'Azkaban,\n le ministère de la magie a décidé de renforcer la sécurité. C'est pour cela, jeune sorcier, pour vous permettre de vous défendre en cas d'attaque d'une de ces créatures, \n que vous allez apprendre le sort Expecto Patronum!",
+  "enemyDescription": "Utiliser le sort Expecto Patronum pour faire fuir les Détraqueurs. Attention, étant donné que c'est un sort compliqué et nouveau pour vous,\n il est plus difficile de le réussir!",
+  "fightBegin": "Vous marchez tranquillement dans les couloirs de Poudlard quand vous tombez nez à nez avec des Détraqueurs!"
+  "endFight": "Félicitation! Vous avez fais fuir tous les Détraqueurs! "
+}
